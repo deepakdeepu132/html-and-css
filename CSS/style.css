@@ -1,0 +1,30 @@
+* {
+    margin    : auto;
+    padding   : auto;
+    box-sizing: border-box;
+}
+
+html {
+   background-image: url(../image/wall.jpg);
+    color           :white;
+    font-family     : 'Courier New', Courier, monospace;
+}
+
+.row {
+    max-width: 11450px;
+    margin   : 10px 227px;
+    color    : rgb(117, 104, 59);
+
+    text-align: center;
+
+}
+#p1{
+    margin: -398px -50px -67px 238px;
+}
+.fonts{
+    margin: 1px 1px 1px 1px;
+}
+.tabledata{
+float: left;
+
+}
